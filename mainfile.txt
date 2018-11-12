@@ -1,1 +1,5 @@
 This is my first file in Github
+Now I added couple of lines, like:
+Line 1 &
+Line 2
+***End***
